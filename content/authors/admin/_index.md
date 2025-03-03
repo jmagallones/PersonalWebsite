@@ -3,7 +3,7 @@
 title: Jeanne Trixie Msgallones
 
 # Name pronunciation (optional)
-name_pronunciation: "Jan Mah-gahl-yoh-ness"
+name_pronunciation: Jan Mah-gahl-yoh-ness
 
 # Full name (for SEO)
 first_name: Jeanne Trixie
@@ -55,9 +55,9 @@ interests:
 education:
   - area: BSc General Science
     institution: University College Dublin
-    date_start: 2018-09
-    date_end: 2022-09
-    summary: 
+    date_start: 2018-09-01
+    date_end: 2022-09-01
+    summary:
       GPA: 3.8/4.0
 
       Courses included:
