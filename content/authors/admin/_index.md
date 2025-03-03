@@ -57,7 +57,7 @@ education:
     institution: University College Dublin
     date_start: 2018-09-01
     date_end: 2022-09-01
-    summary:
+    summary: |
       GPA: 3.8/4.0
 
       Courses included:
