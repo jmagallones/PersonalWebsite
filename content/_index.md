@@ -1,4 +1,5 @@
 ---
+# THIS PAGE IS FOR CUSTOMISING THE LAYOUT OF THE HOMEPAGE BY DECIDING WHAT BLOCKS TO ADD ONTO
 # Leave the homepage title empty to use the site title
 title: ""
 date: 2022-10-24
